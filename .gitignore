@@ -1,0 +1,4 @@
+/target
+networks.txt
+Cargo.lock
+.idea

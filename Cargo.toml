@@ -1,0 +1,12 @@
+[package]
+name = "IpSubnetValidator"
+version = "0.1.0"
+authors = ["s3722763 <s3722763@student.rmit.edu.au>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[profile.release]
+debug = true
